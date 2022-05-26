@@ -6,17 +6,14 @@ another player or the computer.
 The code presented in the repository represents my answer to the following
 assignment:
 > Make an implementation of Othello (Reversi), in which two humans can play 
-against each other, or a human against the computer.
-
-> https://en.wikipedia.org/wiki/Reversi
-
+against each other, or a human against the computer. <br />
+> https://en.wikipedia.org/wiki/Reversi <br />
 > The evaluation of the assignment will not reward that the computer plays well.
-It is sufficient, that it makes legal moves.
+It is sufficient, that it makes legal moves. <br />
+> The implementation must demonstrate understanding of C++ and object oriented programming." <br />
 
-> The implementation must demonstrate understanding of C++ and object oriented programming."
-
-I would like to stress the criteria that computer does not have to play well, as
-the simple computer opponent I have implemented plays poorly.
+I would like to stress the criteria that computer does not have to play well. As
+a consequence I have implemented a very simple computer player.
 
 #### Requirements
 
@@ -49,7 +46,7 @@ from the following two sources:
 1. [G. V. Ganesh Maurya][2]
 
 Maurya presents a fairly straight forward object orientated solution for two
-players.
+players. <br />
 While Roger's solution is more complex it adds a proper computer opponent that
 could serve as inspiration for upgrading the one presented in this project.
 
