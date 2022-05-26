@@ -1,0 +1,12 @@
+### Temp files
+*~
+
+### Binary outputs
+*.out
+# Ignore othello binary, but unignore folder
+othello
+!othello/
+
+
+### Object files
+*.o
