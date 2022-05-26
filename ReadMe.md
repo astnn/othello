@@ -10,10 +10,10 @@ against each other, or a human against the computer. <br />
 > https://en.wikipedia.org/wiki/Reversi <br />
 > The evaluation of the assignment will not reward that the computer plays well.
 It is sufficient, that it makes legal moves. <br />
-> The implementation must demonstrate understanding of C++ and object oriented programming." <br />
+> The implementation must demonstrate understanding of C++ and object oriented programming. <br />
 
 I would like to stress the criteria that computer does not have to play well. As
-a consequence I have implemented a very simple computer player.
+a consequence I have implemented a very simple computer opponent.
 
 #### Requirements
 
